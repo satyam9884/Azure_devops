@@ -1,5 +1,5 @@
 # Azure_devops
-# Will crack one day
+# Study hard
 1
 2
 3
